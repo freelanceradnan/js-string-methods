@@ -10,6 +10,12 @@
 // let res=Number.parseFloat(10.12)
 // console.log(res)
 
-//parsefloat methods prints with negative 
-let res=Number.parseFloat(-10)
+// //parsefloat methods prints with negative 
+// let res=Number.parseFloat(-10)
+// console.log(res)
+
+
+//tofixed methods
+let num=10.23665;
+let res=num.toFixed(2)
 console.log(res)
