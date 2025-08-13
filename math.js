@@ -8,9 +8,16 @@
 // let a=Math.abs(10.12100)
 // console.log(a)
 
-//js ceil
-let a=Math.ceil(1.2)
+// //js ceil
+// let a=Math.ceil(1.2)
+// console.log(a)
+
+// let b=Math.ceil(2.1)
+// console.log(b)
+
+// //floor in js
+let a=Math.floor(2.1)
 console.log(a)
 
-let b=Math.ceil(2.1)
-console.log(b)
+let a=Math.floor(3.1)
+console.log(a)
